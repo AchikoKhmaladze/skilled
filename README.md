@@ -1,3 +1,3 @@
 # skilled
 
-live link: https://khmalaa.github.io/skilled/
+live link: https://AchikoKhmaladze.github.io/skilled/
